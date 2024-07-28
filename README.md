@@ -4,6 +4,17 @@
 3. Programatic verification
 4. Push to Github
 
+# About
+
+This is a crowd sourcing app!
+
+# Getting started
+
+## Requirements
+
+## Quickstart
+
+
 ## Foundry
 ## Usage
 
